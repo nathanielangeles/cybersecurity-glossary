@@ -7,7 +7,7 @@
 # C
 * Cybersecurity - The practice of safeguarding confidentiality, integrity, and availability of information.
 * Cloud Security - The process of ensuring that assets stored in the cloud are managed, configured, and set up correctly.
-* Compliance - The process of following to following standards and regulations.
+* Compliance - The process of following standards and regulations.
 # D
 
 # E
@@ -34,7 +34,7 @@
 
 # P
 * Personally Identifiable Information (PII) - Any information used to gather an individual's identity.
-* Programming - A process used tp create a specific set of instructions for a computer to perform tasks.
+* Programming - A process used to create a specific set of instructions for a computer to perform tasks.
 # Q
 
 # R
